@@ -1,3 +1,11 @@
-# Assignment1
+#Course code: COMP313
 
-Developed with Unreal Engine 4
+#Name: Meng Veng Taing
+
+#Assignment: Assignment1
+
+#Title: Poor man shooter
+
+
+
+

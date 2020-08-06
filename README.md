@@ -25,8 +25,11 @@ are spawning randomly within a volume.
 ## Controls:
 
 Movement: WASD
+
 Pause/Settings: p
+
 Shoot: Left click
+
 Run: Shift
 
 

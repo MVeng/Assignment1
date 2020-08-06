@@ -1,10 +1,10 @@
-#Course code: COMP313
+# Course code: COMP313
 
-#Name: Meng Veng Taing
+# Name: Meng Veng Taing
 
-#Assignment: Assignment1
+# Assignment: Assignment1
 
-#Title: Poor man shooter
+# Title: Poor man shooter
 
 
 
